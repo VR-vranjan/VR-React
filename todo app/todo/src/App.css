@@ -1,0 +1,50 @@
+.container {
+  height: 35rem;
+  width: 40rem;
+  background-color: rgb(33, 139, 239);
+  margin-left: 27rem;
+  margin-top: 6rem;
+  border-radius: 20%;
+  border-color: black;
+  border-style: solid;
+}
+
+.header {
+  padding: 30px;
+  font-size: 2.5rem;
+  color: darkblue;
+  text-align: center;
+  font-weight: bold;
+  margin-right: 1.5rem;
+}
+.full{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10rem;
+  margin-top: 10px;
+
+}
+.two{
+  justify-content: flex-start;
+  margin-left: 5rem;
+  height: 2rem;
+  
+}
+.text{
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.icons{
+  margin-top: 7px;
+}
+.btn{
+  margin-top: 2rem;
+  height: 3rem;
+  width: 20rem;
+  margin-left: 5rem;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: large;
+}
+
